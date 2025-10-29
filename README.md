@@ -9,11 +9,7 @@ This client is optimized for the win, and it looks SICK!
 
 MAX FPS 🚀: Smooth AF. We focus on performance so you NEVER miss a hit.
 
-CUSTOM HITSOUNDS 🔊: Hear every single critical hit like a BOOM!
-
 CLEAN HUD ✨: Totally customizable GUI to show off all your pro stats (Keystrokes, CPS, FPS, PING).
-
-WAYPOINT SYSTEM 🧭: Never lose your base, your diamonds, or your friend's secret chest ever again.
 
 NO LAG 🧊: Seriously, this client is faster than a speed hacker. You will barely feel it.
 
