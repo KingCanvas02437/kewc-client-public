@@ -1,30 +1,3 @@
-<style>
-.title-shadow {
-color: #FFD700;
-text-shadow: 2px 2px 5px #FF0000, -2px -2px 5px #FF8C00;
-font-size: 2.5em;
-font-family: 'Courier New', monospace;
-border-bottom: 5px double #FF0000;
-padding-bottom: 10px;
-margin-bottom: 20px;
-}
-.link-box {
-border: 3px solid #00FFFF;
-padding: 15px;
-margin-top: 20px;
-background-color: #101010;
-border-radius: 10px;
-text-align: center;
-}
-.link-text {
-font-size: 1.2em;
-color: #00FFFF;
-font-weight: bold;
-}
-.rule-header {
-color: #FF4500;
-}
-</style>
 
 <div class="title-shadow">⚔️ KEWC CLIENT: THE BEST 1.8.9 PVP CLIENT EVER ⚔️</div>
 
