@@ -47,8 +47,8 @@ GIVE CREDIT: If you make a YouTube video or stream using KewC, you MUST put the 
 
 If you use the client, you agree to all EIGHT of my official rules. NO EXCEPTIONS! Don't say KingCanvas didn't warn you!
 
-You can read the entire, extremely important and official rule document here. Read this or else you lose your client rights:
+You can read the entire, extremely important and official rule document here.:
 
-KewC Client Official Rules (The Real License)
+KewC Client Official Rules (The Real License)[https://github.com/KingCanvas02437/kewc-client-public/blob/main/LICENSE]
 
 👑 KINGCANVAS HAS SPOKEN. GOOD LUCK IN PVP! 👑
